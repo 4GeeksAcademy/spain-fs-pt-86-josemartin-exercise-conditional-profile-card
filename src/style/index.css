@@ -1,5 +1,5 @@
 .filters {
-  background: white;
+  background-color: lavender;
   width: 100%;
 }
 .filters li {
@@ -21,7 +21,7 @@
 .widget {
   position: relative;
   width: 300px;
-  height: 350px;
+  height: 450px;
   margin: 50px auto;
   background: #fff;
   border-radius: 5px;
@@ -84,7 +84,7 @@
 .widget ul li a {
   display: block;
   padding: 5px 6px;
-  color: #fff;
+  color: #0eee7e;
   cursor: pointer;
   text-align: center;
   border-bottom: 1px solid #2cd5ca;
